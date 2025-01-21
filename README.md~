@@ -1,0 +1,24 @@
+#Githup Card projesi
+
+-Html
+-css
+-javascript 
+-.GitHub Kullanıcı Bulucu projesi, kullanıcıların bir GitHub kullanıcı adı girmelerini ve GitHub API'sinden gerçek zamanlı verileri kullanarak profil adı, biyografi, depolar, takipçiler ve daha fazlası gibi ayrıntılı bilgileri almalarını sağlar. API entegrasyonunu, dinamik kullanıcı arayüzü güncellemelerini ve Axios ile eşzamansız JavaScript'i gösterir.
+Gördüklerinizi beğendiyseniz depoyu ⭐ yıldızlayın 😉
+📸 Proje Demosu
+
+
+
+
+🛠️ Kullanılan Teknolojiler
+HTML5: Web sayfasını yapılandırmak için.
+CSS3: Stil ve düzen tasarımı için.
+JavaScript (ES6): Dinamik işlevsellik ve etkileşim için.
+Axios: API istekleri yapmak için.
+GitHub API: Kullanıcı profil verilerini almak için.
+🎨 Özellikler
+👤 GitHub Kullanıcı Arama: Profil ayrıntılarını almak için herhangi bir GitHub kullanıcı adını girin.
+🗂️ Ayrıntılı Kullanıcı Bilgileri: Depoları, takipçileri ve profil biyografisini görüntüler.
+🔄 Dinamik Veri Alma: Axios kullanılarak gerçek zamanlı veri alma.
+📱 Duyarlı Tasarım: Hem masaüstü hem de mobil cihazlar için optimize edilmiştir.
+
